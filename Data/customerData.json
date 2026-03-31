@@ -1,0 +1,14 @@
+{
+  "validUser": {
+    "name": "Yennifer Chacón",
+    "country": "Argentina",
+    "city": "Buenos Aires",
+    "card": "123456789012",
+    "month": "12",
+    "year": "2026"
+  },
+  "products": {
+    "laptop": "Sony vaio i5",
+    "phone": "Samsung galaxy s6"
+  }
+}
