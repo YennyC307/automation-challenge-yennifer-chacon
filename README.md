@@ -30,24 +30,19 @@ El test `purchase.spec.js` cubre el proceso **End-to-End** de compra:
 
 1. **Clonar el repositorio:**
 ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
-   cd <NOMBRE_CARPETA>
+   git clone https://github.com/YennyC307/automation-challenge-yennifer-chacon.git
 
 2. **Instalar dependencias:**
-```bash
    npm install
 
 3. **Instalar navegadores de Playwright:**
-```bash
    npx playwright install
 
 4. **Ejecutar todos los test:**
-```bash
    npm test
+
 5. **Ejecutar tests viendo el navegador (Headed)**
-```bash
    npm run test:headed
 
 6. **Ver reporte de resultados:**
-```bash
    npx playwright show-report
